@@ -1,4 +1,4 @@
-package com.worldpay.access.exercise.android
+package com.company.exercise.android
 
 import android.os.Bundle
 import com.google.android.material.snackbar.Snackbar
@@ -9,7 +9,8 @@ import androidx.navigation.ui.navigateUp
 import androidx.navigation.ui.setupActionBarWithNavController
 import android.view.Menu
 import android.view.MenuItem
-import com.worldpay.access.exercise.android.databinding.ActivityMainBinding
+import com.company.exercise.android.R
+import com.company.exercise.android.databinding.ActivityMainBinding
 
 class MainActivity : AppCompatActivity() {
 
